@@ -5,7 +5,7 @@
 
 ## Education:
 
-#### 1. [ Institut Teknologi Sumatera](https://www.itera.ac.id/)| Engineering Physics | Lampung `2021-2025`
+#### 1. [ Institut Teknologi Sumatera](https://www.itera.ac.id/) | Engineering Physics | Lampung `2021-2025`
 #### 2. [SMAN 84 Jakarta](https://bit.ly/sman84jakarta) | MIPA | DKI Jakarta `2018-2021`
 
 ## Work Experience:
@@ -87,7 +87,7 @@ Zooplankton Abundance Using Statsmodel As Bioindicator Water Fertility on the Co
   - Designing electrical circuit schematics
   - Calibrate the LDR sensor
   - Analyze the errors produced
-#### 4. [Automatic Number Plate Recognition System (ANPR TERA) ](https://www.itera.ac.id/)| Computational Intelligence | Lampung `2023`
+#### 4. [Automatic Number Plate Recognition System (ANPR TERA) ](https://github.com/zefanyadita/ANPR_Tera)| Computational Intelligence | Lampung `2023`
   - Code image processing programs with OpenCV in Python
   - Create text recognition codes on number plates with the OCR module (Tesseract)
   - Integration of program code (deploy) on streamlit.io with github
@@ -97,7 +97,7 @@ Zooplankton Abundance Using Statsmodel As Bioindicator Water Fertility on the Co
   - Make the program code in Arduino IDE
   - Calibrate the LDR sensor
   - Designing the chassis with acrylic using Autocad
-#### 6. [ Self Balancing Robot with Tunning PID ](https://www.itera.ac.id/)| LabTF III | Lampung `2023`
+#### 6. [ Self Balancing Robot with Tunning PID ](https://github.com/zefanyadita/Self-Balancing-Robot-with-Tunning-PID)| LabTF III | Lampung `2023`
   - Designed a 3D prototype of a self-balancing robot with an animal theme using Autodesk Inventor
   - Design and install electronic components on PCB
   - Tuning the PID on the self balancing robot
