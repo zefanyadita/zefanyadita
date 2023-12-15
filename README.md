@@ -1,6 +1,7 @@
 # Hi there I'm Zefanya Frandita Situmorang
 ## About me:
-- 📫 How to reach me: mzamzamiriyadin@gmail.com
+- 🔭 I’m currently Study as Engineering Physics
+- 📫 How to reach me: zefanya.121320045@student.itera.ac.id
 
 ## Education:
 
@@ -19,9 +20,9 @@
 ## External Staff of the Persekutuan Mahasiswa Kristen (PMK) ITERA
 *2022-2023*
 
-Responsible as a PMK Representative in serving the Community.
-Held an Education Service at the Orphanage and School.
-Held an Worship Service at Christian Orphanage, School and Church.
+- Responsible as a PMK Representative in serving the Community.
+- Held an Education Service at the Orphanage and School.
+- Held an Worship Service at Christian Orphanage, School and Church.
 ---
 # Volunteer Experience
 
