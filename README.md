@@ -68,6 +68,7 @@ Treatment Installation Design Household Domestic (Gray Water) as a Solution for 
 
 Participant in the ITERA Student Research Grant 2023 (HPMI) - "Parameterized Linear Regression Testing Oceanography and 
 Zooplankton Abundance Using Statsmodel As Bioindicator Water Fertility on the Coast of Lampung Bay". 
+
 ---
 ## Project:
 
@@ -112,7 +113,7 @@ Zooplankton Abundance Using Statsmodel As Bioindicator Water Fertility on the Co
 - FluidSim
 ---
 #### Hard Skills 
-Adaptability, Communication, Time Management, Problem Solving, Teamwork, Critical thinking
+- Adaptability, Communication, Time Management, Problem Solving, Teamwork, Critical thinking
 ---
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/azmi_riyadin)
