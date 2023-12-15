@@ -72,17 +72,17 @@ Zooplankton Abundance Using Statsmodel As Bioindicator Water Fertility on the Co
 ---
 ## Project:
 
-#### 1. [ Independent Energy Home ](https://www.itera.ac.id/)| LabTF I | Lampung `2021`
+#### 1. [ Independent Energy Home ](https://github.com/zefanyadita/Independent-Energy-Home)| LabTF I | Lampung `2021`
   - Designing 3D house prototypes using Skethcup
   - Designing schematic circuits on PCB boards with Eagle software
   - Calculate the electrical power used
   - Conduct analysis of energy consumption
-#### 2. [ Inductance Meter ](https://www.itera.ac.id/)| LabTF II| Lampung `2022`
+#### 2. [ Inductance Meter ](https://github.com/zefanyadita/Inductance-Meter)| LabTF II| Lampung `2022`
   - Designing the inductor meter chassis design with acrylic using AutocaD
   - Designing a schematic for an inductor meter circuit with Eagle Software
   - Calibrate the inductor meter prototype
   - Analyze the errors produced
-#### 3. [ Automatic Street Light using LDR Sensor ](https://www.itera.ac.id/)| Dynamic System and Simulation | Lampung `2022`
+#### 3. [ Automatic Street Light using LDR Sensor ](https://github.com/zefanyadita/Automatic-Street-Light-using-LDR-Sensor)| Dynamic System and Simulation | Lampung `2022`
   - Designing an automatic street light design prototype - Arduino Uno
   - Designing electrical circuit schematics
   - Calibrate the LDR sensor
@@ -91,7 +91,7 @@ Zooplankton Abundance Using Statsmodel As Bioindicator Water Fertility on the Co
   - Code image processing programs with OpenCV in Python
   - Create text recognition codes on number plates with the OCR module (Tesseract)
   - Integration of program code (deploy) on streamlit.io with github
-#### 5. [ Automatic Control Light Intensity using Fuzzy Logic ](https://www.itera.ac.id/)| Computational Intelligence | Lampung `2023`
+#### 5. [ Automatic Control Light Intensity using Fuzzy Logic ](https://github.com/zefanyadita/Automatic-Control-Light-Intensity-using-Fuzzy-Logic)| Computational Intelligence | Lampung `2023`
   - Determine the input membership function (input from 2 LDR sensors) and output
   - Determine the fuzzy logic rule base
   - Make the program code in Arduino IDE
