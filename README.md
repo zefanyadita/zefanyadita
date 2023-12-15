@@ -9,7 +9,7 @@
 #### 2. [SMAN 84 Jakarta](https://bit.ly/sman84jakarta) | MIPA | DKI Jakarta `2018-2021`
 
 ## Work Experience:
-#### 1. [ Lab. Assistant - Dept. of Engineering Physics ITERA] | Web Developer  | Lampung `'2023 - Now`
+#### 1. Lab. Assistant - Dept. of Engineering Physics ITERA | Web Developer  | Lampung `'2023 - Now`
    - Provide direction to students or laboratory participants regarding experimental procedures and laboratory safety.
    - Assist in answering questions and providing guidance when needed.
    - Prepare tools, equipment and materials needed for experiments or laboratory activities.
@@ -56,12 +56,12 @@
 programs.
 
 ---
-# Achievemenet
+# Achievement
 ## PKM ITERA
 *2023*
 
 Participant in the Kemendikbud Student Creativity Program (PKM) ITERA Internal Selection – “REWATER: Wastewater 
-Treatment Installation Design Household Domestic (Gray Water) as a Solution for Clean Water Production”
+Treatment Installation Design Household Domestic (Gray Water) as a Solution for Clean Water Production”.
 
 ## HPMI ITERA
 *2023*
