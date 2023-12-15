@@ -72,17 +72,17 @@ Zooplankton Abundance Using Statsmodel As Bioindicator Water Fertility on the Co
 ---
 ## Project:
 
-#### 1. [ Independent Energy Home](https://www.itera.ac.id/)| LabTF I | Lampung `2021`
+#### 1. [ Independent Energy Home ](https://www.itera.ac.id/)| LabTF I | Lampung `2021`
   - Designing 3D house prototypes using Skethcup
   - Designing schematic circuits on PCB boards with Eagle software
   - Calculate the electrical power used
   - Conduct analysis of energy consumption
-#### 2. [ Inductance Meter](https://www.itera.ac.id/)| LabTF II| Lampung `2022`
+#### 2. [ Inductance Meter ](https://www.itera.ac.id/)| LabTF II| Lampung `2022`
   - Designing the inductor meter chassis design with acrylic using AutocaD
   - Designing a schematic for an inductor meter circuit with Eagle Software
   - Calibrate the inductor meter prototype
   - Analyze the errors produced
-#### 3. [ Automatic Street Light using LDR Sensor](https://www.itera.ac.id/)| Dynamic System and Simulation | Lampung `2022`
+#### 3. [ Automatic Street Light using LDR Sensor ](https://www.itera.ac.id/)| Dynamic System and Simulation | Lampung `2022`
   - Designing an automatic street light design prototype - Arduino Uno
   - Designing electrical circuit schematics
   - Calibrate the LDR sensor
@@ -91,17 +91,18 @@ Zooplankton Abundance Using Statsmodel As Bioindicator Water Fertility on the Co
   - Code image processing programs with OpenCV in Python
   - Create text recognition codes on number plates with the OCR module (Tesseract)
   - Integration of program code (deploy) on streamlit.io with github
-#### 5. [ Automatic Control Light Intensity using Fuzzy Logic](https://www.itera.ac.id/)| Computational Intelligence | Lampung `2023`
+#### 5. [ Automatic Control Light Intensity using Fuzzy Logic ](https://www.itera.ac.id/)| Computational Intelligence | Lampung `2023`
   - Determine the input membership function (input from 2 LDR sensors) and output
   - Determine the fuzzy logic rule base
   - Make the program code in Arduino IDE
   - Calibrate the LDR sensor
   - Designing the chassis with acrylic using Autocad
-#### 6. [ Self Balancing Robot with Tunning PID](https://www.itera.ac.id/)| LabTF III | Lampung `2023`
+#### 6. [ Self Balancing Robot with Tunning PID ](https://www.itera.ac.id/)| LabTF III | Lampung `2023`
   - Designed a 3D prototype of a self-balancing robot with an animal theme using Autodesk Inventor
   - Design and install electronic components on PCB
   - Tuning the PID on the self balancing robot
 ---
+### Personal
 #### Hard Skills 
 - MATLAB
 - Python
@@ -112,8 +113,8 @@ Zooplankton Abundance Using Statsmodel As Bioindicator Water Fertility on the Co
 - Sketchup
 - FluidSim
 ---
-#### Hard Skills 
-- Adaptability, Communication, Time Management, Problem Solving, Teamwork, Critical thinking
+#### Soft Skills 
+Adaptability, Communication, Time Management, Problem Solving, Teamwork, Critical thinking
 ---
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/azmi_riyadin)
