@@ -66,7 +66,7 @@ Treatment Installation Design Household Domestic (Gray Water) as a Solution for 
 ## HPMI ITERA
 *2023*
 
-Participant in the ITERA Student Research Grant 2023 (HPMI) - "Parameterized Linear Regression Testing Oceanography and 
+Passed Funding in ITERA Student Research Grant 2023 (HPMI) - "Parameterized Linear Regression Testing Oceanography and 
 Zooplankton Abundance Using Statsmodel As Bioindicator Water Fertility on the Coast of Lampung Bay". 
 
 ---
