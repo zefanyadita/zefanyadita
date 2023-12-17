@@ -122,7 +122,7 @@ Zooplankton Abundance Using Statsmodel As Bioindicator Water Fertility on the Co
 - Critical thinking
 ---
 ### Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/azmi_riyadin)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/zefanyadita__?igshid=OGQ5ZDc2ODk2ZA==)
 
 
 
