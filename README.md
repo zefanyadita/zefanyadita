@@ -82,7 +82,7 @@ Zooplankton Abundance Using Statsmodel As Bioindicator Water Fertility on the Co
   - Designing a schematic for an inductor meter circuit with Eagle Software
   - Calibrate the inductor meter prototype
   - Analyze the errors produced
-#### 3. [ Automatic Street Light using LDR Sensor ](https://github.com/zefanyadita/Automatic-Street-Light-using-LDR-Sensor)| Dynamic System and Simulation | Lampung `2022`
+#### 3. [ Automatic Street Light using LDR Sensor ](https://github.com/zefanyadita/Automatic-Street-Light-using-LDR-Sensor)| Metode Pengukuran | Lampung `2022`
   - Designing an automatic street light design prototype - Arduino Uno
   - Designing electrical circuit schematics
   - Calibrate the LDR sensor
@@ -114,7 +114,12 @@ Zooplankton Abundance Using Statsmodel As Bioindicator Water Fertility on the Co
 - FluidSim
 ---
 #### Soft Skills
- Adaptability, Communication, Time Management, Problem Solving, Teamwork, Critical thinking
+- Adaptability
+- Communication
+- Time Management
+- Problem Solving
+- Teamwork
+- Critical thinking
 ---
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/azmi_riyadin)
