@@ -5,11 +5,11 @@
 
 ## Education:
 
-#### 1. [ Institut Teknologi Sumatera](https://www.itera.ac.id/) | Engineering Physics | Lampung `2021-2025`
+#### 1. [ Institut Teknologi Sumatera](https://www.itera.ac.id/) | Engineering Physics | Lampung `2021-Now`
 #### 2. [SMAN 84 Jakarta](https://bit.ly/sman84jakarta) | MIPA | DKI Jakarta `2018-2021`
 
 ## Work Experience:
-#### 1. Lab. Assistant - Dept. of Engineering Physics ITERA | Web Developer  | Lampung `'2023 - Now`
+#### 1. Dept. of Engineering Physics ITERA | Lab. Assistant | Lampung `'2023 - Now`
    - Provide direction to students or laboratory participants regarding experimental procedures and laboratory safety.
    - Assist in answering questions and providing guidance when needed.
    - Prepare tools, equipment and materials needed for experiments or laboratory activities.
@@ -113,8 +113,8 @@ Zooplankton Abundance Using Statsmodel As Bioindicator Water Fertility on the Co
 - Sketchup
 - FluidSim
 ---
-#### Soft Skills 
-Adaptability, Communication, Time Management, Problem Solving, Teamwork, Critical thinking
+#### Soft Skills
+ Adaptability, Communication, Time Management, Problem Solving, Teamwork, Critical thinking
 ---
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/azmi_riyadin)
